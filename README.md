@@ -4,9 +4,9 @@ githubテスト用サイト リポジトリ
 ---
 
 ## メンバー
-★ aaa
-★ bbb
-★ ccc
+* aaa
+* bbb
+* ccc
 
 ## ファイル構成
 
